@@ -22,5 +22,5 @@ public class User implements Serializable {
 
     private String password;
 
-    private String username;
+    private String username="胖胖";
 }
